@@ -4,3 +4,16 @@
 // node js is writeen in c,c++ and js
 // Js has document, windows- can only be run in browser, used on the clinet side
 // upgraded ecma script using v8 engine that uses c++
+
+
+
+import vs require:
+require can be called anywhere import in the beggining
+
+require only work with js
+
+ES modules can be loaded dynamically via the import() function unlike require().
+require not able to load partially while import can
+
+import -export
+require -module.exports

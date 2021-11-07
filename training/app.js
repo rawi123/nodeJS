@@ -1,4 +1,3 @@
-const fs=require('fs');
-
-fs.writeFileSync("notes.txt","2nd"); 
-fs.appendFileSync('notes.txt', 'data to append');
+const validator=require("validator");
+const chalk = require('chalk');
+console.log(chalk.bgGreen.bold(validator.isURL("www.google.com")));
