@@ -18,7 +18,9 @@
   "homepage": "https://github.com/rawi123/nodeJS#readme",
   "dependencies": {
     "axios": "^0.24.0",
+    "body-parser": "^1.19.0",
     "chalk": "^4.1.2",
+    "express": "^4.17.1",
     "request": "^2.88.2",
     "uniqid": "^5.4.0",
     "validator": "^10.11.0"
