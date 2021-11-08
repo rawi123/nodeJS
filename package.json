@@ -18,6 +18,7 @@
   "homepage": "https://github.com/rawi123/nodeJS#readme",
   "dependencies": {
     "chalk": "^4.1.2",
+    "uniqid": "^5.4.0",
     "validator": "^10.11.0"
   }
 }
