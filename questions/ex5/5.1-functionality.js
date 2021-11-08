@@ -3,7 +3,6 @@ const chalk = require("chalk");
 
 
 
-
 const addUser = (id, name, email,password) => {
     const users = getUsers();
     const userFind = users.find(user => user.id === id);
